@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Happy New Year!!!
+
 Use the left arror to go back!
